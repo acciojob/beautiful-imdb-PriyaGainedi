@@ -1,2 +1,18 @@
-
-/* Your CSS Code here. */
+h1{
+	color: red;
+	text-align:center;
+}
+#moviePic{
+	height:300px;
+	width: 300px;
+	opacity:0.9;
+	position: relative;
+	left: 100px;
+}
+#movieDetail{
+	position: relative;
+	top: 20px;
+	width: 500px;
+	text-align:justify;
+	font-size: 12px;
+}
